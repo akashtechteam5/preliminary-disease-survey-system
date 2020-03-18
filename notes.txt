@@ -1,0 +1,7 @@
+
+Rajat 
+-----
+
+19_symptoms_updation_history 	-> use dbforge method to add columns whenever symptom is updated
+                                -> add event to find out who didn't update symptom.
+                                -> notify user to update
